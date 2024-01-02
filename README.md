@@ -1,3 +1,9 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatsuya087)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatsuya087&exclude_repo=github-readme-stats,anuraghazra.github.io)
-[![trophy](https://github-profile-trophy.vercel.app/?username=tatsuya087&theme=noctis_minimus&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatsuya087&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tatsuya087&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tatsuya087&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tatsuya087&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tatsuya087&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=tatsuya087&theme=gruvbox)
